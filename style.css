@@ -1050,7 +1050,7 @@ hr
 #preloader h1
 {
 	font-weight: 100;
-	font-size: calc( 5vw + 10px );
+	font-size: calc( 4vw + 20px );
 	color: var(--accent);
 	margin: 0;
 }
@@ -1062,6 +1062,7 @@ hr
 }
 #preloader h2
 {
+	font-size: calc( 0.5vw + 15px );
 	transition: 0.1s;
 	margin-top: 50px;
 	font-weight: 100;
