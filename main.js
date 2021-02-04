@@ -19,7 +19,7 @@ window.addEventListener("load", function(){
 			document.getElementById("preloader").style.zIndex = "-1";
 			document.getElementsByClassName("main")[0].style.animation = "fade 1s forwards 0s";
 		}, 600 );
-	}, 5000);
+	}, 10);
 	
 }) 
 
