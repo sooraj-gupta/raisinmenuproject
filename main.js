@@ -45,7 +45,7 @@ var go = ( str ) =>
 
 document.querySelectorAll(".text p, .halfsplit + p").forEach(
 	function( currentValue ){
-		currentValue.innerHTML = wrapWords( currentValue.innerHTML );
+		//currentValue.innerHTML = wrapWords( currentValue.innerHTML );
 	}
 );''
 
