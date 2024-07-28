@@ -84,6 +84,7 @@ let title =  "The Title";
 
 var load = () =>
 {
+  document.body.style.zoom = "80%" 
 	let tars = document.querySelectorAll("[tar]");
 	for( var i = 0; i < tars.length;i++)
 	{
